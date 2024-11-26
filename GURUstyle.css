@@ -1,0 +1,35 @@
+.GURU{
+    text-align: center;
+    background: yellow;  
+    padding-top: 15px;
+}
+.struktur  {
+    background: yellowgreen;
+    height: 100px;
+    color: black;
+    font-weight: light;
+    padding-top: 20px;
+    padding-bottom: 50px;   
+}
+.struktur img {
+    width: 100px;
+}
+
+.organisasi {
+    text-align: center;
+    font-weight: lighter;
+    padding-top: 50px;
+}
+
+.organisasi h1 {
+    opacity: 80%;
+}
+
+.organisasi p {
+    opacity: 50%;
+}
+
+.grid2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
